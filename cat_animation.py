@@ -1,3 +1,7 @@
+# simple image mosaic operation
+# 2019/06/21
+# by Yurok Ji, Hacker's Coding lab 
+
 import numpy as numpy
 import matplotlib.pyplot as plt
 from skimage import io
